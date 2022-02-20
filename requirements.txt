@@ -1,2 +1,5 @@
 odfpy
 pandas
+jupyter
+plotly
+seaborn
